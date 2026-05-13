@@ -1,85 +1,83 @@
 [
- {
-    "id": "41",
-    "name": "Prestige IRIS ECO 1200 W Induction Cooktop with automatic voltage regulator |Indian Menu option|Power Saver|Timer with User Pre-Set| Black       ",
-    "mainimg": "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
-    "dis": "93%",
-    "total": "₹2,999",
-    "disprice": "₹418",
+{
+    "id": "21",
+    "name": "Hawkins 3 Litre Contura Black Pressure Cooker, Hard Anodised Inner Lid Cooker, Handi Cooker, Black (CB30)",
+    "mainimg": "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg",
+    "dis": "95%",
+    "total": "₹3,499",
+    "disprice": "₹368",
     "slide": [
-      "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81uk2K736TL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81J+A2goM+L._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81l60lHvBYL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81OhlSqgLjL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81unm0d-vXL._SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61FzoEUcHDL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71r1-FW-RFL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/611vygBfJ0L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61BXlRLrFXL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61JojZU6m4L._SX679_.jpg"
     ],
     "trending": true,
     "reviews": [
       {
         "rating": 5,
-        "title": "Excellent Pressure Handi",
-        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
-        "buyerName": "Aditya Sharma",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Highly Recommended",
-        "text": "Strong and durable. Very convenient for daily cooking.",
-        "buyerName": "Mihir Kapoor",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Very Efficient",
-        "text": "cooking perfectly. Saves time and energy.",
-        "buyerName": "Riddhi Deshmukh",
+        "title": "Excellent quality and finish!",
+        "text": "The saucepan feels premium and cooks evenly. Cleaning is super easy, and it looks elegant on the table.",
+        "buyerName": "Anjali Rao",
         "verified": true,
         "location": "Pune",
         "daysAgo": "1 day ago",
         "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Sturdy & Reliable",
-        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
-        "buyerName": "Ananya Singh",
-        "verified": true,
-        "location": "Amritsar",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
         ]
       },
       {
         "rating": 4,
-        "title": "Best Buy",
-        "text": "Affordable and efficient. Works exactly as described.",
-        "buyerName": "Subham Rathi",
+        "title": "Worth every penny",
+        "text": "Build quality is top-notch. The lid fits snugly, and it retains heat well. Great for slow cooking.",
+        "buyerName": "Rahul Sharma",
         "verified": true,
-        "location": "Jamnagar",
+        "location": "Delhi",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Perfect for family meals",
+        "text": "Ideal size for cooking for 3–4 people. I’ve used it for gravies, soups, and rice — performs flawlessly.",
+        "buyerName": "Meena Gupta",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Very durable and elegant",
+        "text": "Been using it daily for two weeks — absolutely love the non-stick performance and sleek design.",
+        "buyerName": "Vikas Jain",
+        "verified": true,
+        "location": "Jaipur",
         "daysAgo": "1 day ago",
         "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
+        ]
+      },
+      {
+        "rating": 4.5,
+        "title": "Good product for daily cooking",
+        "text": "The handle stays cool and comfortable to hold. A bit heavy, but that’s what makes it solid and reliable.",
+        "buyerName": "Priya Nair",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
         ]
       }
     ]
   },
-  
- 
  
  {
     "id": "1",
@@ -312,85 +310,7 @@
       }
     ]
   },
-   {
-    "id": "21",
-    "name": "Hawkins 3 Litre Contura Black Pressure Cooker, Hard Anodised Inner Lid Cooker, Handi Cooker, Black (CB30)",
-    "mainimg": "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg",
-    "dis": "95%",
-    "total": "₹3,499",
-    "disprice": "₹368",
-    "slide": [
-      "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg",
-      "https://m.media-amazon.com/images/I/61FzoEUcHDL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/71r1-FW-RFL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/611vygBfJ0L._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/61BXlRLrFXL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/61JojZU6m4L._SX679_.jpg"
-    ],
-    "trending": true,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent quality and finish!",
-        "text": "The saucepan feels premium and cooks evenly. Cleaning is super easy, and it looks elegant on the table.",
-        "buyerName": "Anjali Rao",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Worth every penny",
-        "text": "Build quality is top-notch. The lid fits snugly, and it retains heat well. Great for slow cooking.",
-        "buyerName": "Rahul Sharma",
-        "verified": true,
-        "location": "Delhi",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Perfect for family meals",
-        "text": "Ideal size for cooking for 3–4 people. I’ve used it for gravies, soups, and rice — performs flawlessly.",
-        "buyerName": "Meena Gupta",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Very durable and elegant",
-        "text": "Been using it daily for two weeks — absolutely love the non-stick performance and sleek design.",
-        "buyerName": "Vikas Jain",
-        "verified": true,
-        "location": "Jaipur",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      },
-      {
-        "rating": 4.5,
-        "title": "Good product for daily cooking",
-        "text": "The handle stays cool and comfortable to hold. A bit heavy, but that’s what makes it solid and reliable.",
-        "buyerName": "Priya Nair",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61xsscK90-L._SX522_.jpg"
-        ]
-      }
-    ]
-  },
+   
   {
     "id": "2",
     "name": "Prestige Iris Plus 750 W Mixer Grinder With 4 Jars (3 Stainless Steel Jars+ 1 Juicer Jar) 4 Super Ef",
