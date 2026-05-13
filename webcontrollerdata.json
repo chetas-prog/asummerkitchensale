@@ -12,12 +12,6 @@
       "link": "phonepe://pay?pa=keval8347@fam&pn=Merchant&cu=INR",
       "upiimg": "/img/phone.webp",
       "enabled": true
-    },
-    {
-      "paymentName": "Paytm",
-      "link": "paytmmp://pay?pa=keval8347@fam&pn=Merchant&cu=INR",
-      "upiimg": "/img/pay.webp",
-      "enabled": true
     }
   ],
   "razorpay": {
